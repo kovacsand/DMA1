@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DMA1.iml" filepath="$PROJECT_DIR$/DMA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handin_5/Handin_5.iml" filepath="$PROJECT_DIR$/Handin_5/Handin_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handin_6/Handin_6.iml" filepath="$PROJECT_DIR$/Handin_6/Handin_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handin_7/Handin_7.iml" filepath="$PROJECT_DIR$/Handin_7/Handin_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handin_8/Handin_8.iml" filepath="$PROJECT_DIR$/Handin_8/Handin_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_4/Lesson_4.iml" filepath="$PROJECT_DIR$/Lesson_4/Lesson_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_6/Lesson_6.iml" filepath="$PROJECT_DIR$/Lesson_6/Lesson_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_7/Lesson_7.iml" filepath="$PROJECT_DIR$/Lesson_7/Lesson_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_8/Lesson_8.iml" filepath="$PROJECT_DIR$/Lesson_8/Lesson_8.iml" />
     </modules>
   </component>
 </project>
